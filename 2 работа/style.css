@@ -1,0 +1,29 @@
+.main {
+ color:rgb(19, 17, 17);
+ font-family: initial;
+}
+.s1 {
+    font-family: monospace;
+}
+
+.svet {
+    color:rgb(160, 100, 108)
+}
+
+.ots {
+    margin-bottom: 20px;
+    background:brown;
+    text-align: center;
+    padding: 5px;
+}
+
+.a1 {
+    width: 76%;
+    text-align: center;
+    padding: 15px;
+    background: rgb(206, 132, 132);
+    border:2px solid rgb(54, 0, 0);
+    margin: auto;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+}
